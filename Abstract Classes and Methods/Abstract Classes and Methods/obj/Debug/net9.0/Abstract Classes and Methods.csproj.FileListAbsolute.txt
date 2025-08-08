@@ -1,0 +1,14 @@
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.exe
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.deps.json
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.runtimeconfig.json
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\bin\Debug\net9.0\Abstract Classes and Methods.pdb
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.AssemblyInfoInputs.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.AssemblyInfo.cs
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net9.0\refint\Abstract Classes and Methods.dll
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.pdb
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net9.0\Abstract Classes and Methods.genruntimeconfig.cache
+C:\Users\augus\OneDrive\Documents\dcit318-assignment2-11358176\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net9.0\ref\Abstract Classes and Methods.dll
